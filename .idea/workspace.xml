@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3607151e-a5f5-4fc2-81b1-8f54d26db6ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mortgage_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example_nestad_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iter()_function_to_convert_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yields_n_random_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_nestad_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/example_nestad_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,6 +171,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568651008872</updated>
     </task>
+    <task id="LOCAL-00001" summary="Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.">
+      <created>1570008980715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570008980716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads." />
+    <option name="LAST_COMMIT_MESSAGE" value="Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads." />
   </component>
 </project>
